@@ -5,3 +5,5 @@ amplify-demos/amplify
 amplify-demos/.amplifyrc
 amplify-demos/src/aws-exports.js
 amplify-demos/node_modules
+
+
